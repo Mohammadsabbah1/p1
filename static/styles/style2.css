@@ -41,13 +41,20 @@ main {
 .blog-post h2 {
     margin-top: 0;
 }
+.div22{
+    display: inline-flex;
+}
 
 .blog-post img {
     width: 100%; /* Make the image fill its container */
     border-radius: 5px;
     margin-bottom: 20px;
 }
-
+.img2{
+    
+    width: 40px; 
+    height: 70px;
+}
 .home {
     display: block;
     text-align: center;
